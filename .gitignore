@@ -1,3 +1,4 @@
 Win32/Debug/
 Win32/Release/*.dcu
 __recovery/
+__history/

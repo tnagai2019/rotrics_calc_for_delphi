@@ -23,8 +23,6 @@ object frmRotricsJog: TfrmRotricsJog
     Align = alLeft
     Enabled = False
     TabOrder = 0
-    ExplicitTop = 0
-    ExplicitHeight = 336
     object spdMove10: TSpeedButton
       Left = 8
       Top = 48
@@ -267,8 +265,6 @@ object frmRotricsJog: TfrmRotricsJog
     Align = alClient
     Enabled = False
     TabOrder = 1
-    ExplicitTop = 0
-    ExplicitHeight = 336
     object Label2: TLabel
       Left = 19
       Top = 7
@@ -319,7 +315,6 @@ object frmRotricsJog: TfrmRotricsJog
     Align = alTop
     Caption = 'Panel3'
     TabOrder = 2
-    ExplicitTop = 344
     object pnlCommand: TPanel
       Left = 1
       Top = 194
@@ -328,9 +323,6 @@ object frmRotricsJog: TfrmRotricsJog
       Align = alBottom
       Enabled = False
       TabOrder = 0
-      ExplicitLeft = 232
-      ExplicitTop = 96
-      ExplicitWidth = 185
       object edCommand: TEdit
         Left = 7
         Top = 6
@@ -368,9 +360,6 @@ object frmRotricsJog: TfrmRotricsJog
       Height = 193
       Align = alRight
       TabOrder = 1
-      ExplicitLeft = 232
-      ExplicitTop = 96
-      ExplicitHeight = 41
       object btnComPortSettings: TButton
         Left = 6
         Top = 8

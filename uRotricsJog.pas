@@ -4,10 +4,16 @@ unit uRotricsJog;
 // Copyright (c)2020 Tateo Nagai. All rights reserved.
 // License: MIT License
 //
+// GitHub Repository
+// https://github.com/tnagai2019/rotrics_calc_for_delphi
+//
 // NOTE:
 // This demo program requires Embarcadero Delphi 10.3 (Community Edition is OK)
 // To build and run this app, you need to install the following component:
 //
+// ComPort Library
+// https://github.com/CWBudde/ComPort-Library
+// By Christian Budde (CWBudde)
 
 interface
 
