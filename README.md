@@ -8,10 +8,13 @@ Demo program to control Rotrics DexArm from Embarcadero Delphi.
 - Rotrics DexArm:
   - I concofirmed this program works with the Rotrics DexArm firmware version 2.1.4 (July 11, 2020). You do not need any other software from Rotrics to use this program.
 
-
 # Requirements
 Before loading this project, you need to install this ComPort Library:
 https://github.com/CWBudde/ComPort-Library
+
+# Executable file
+There is an executable file in ./Win32/Release/rotrics_calc.exe.
+This executable should run without compiling and building the source code, however, you cannot change the location of the calculator buttons as described below. That means, unless you have the exactly same calculator as mine, you will not able to use the calculator feature in practical way. Other features should work fine though. 
 
 # How to build and run
 After loading the project file (rotrics_calc.dproj), just click "run (F9)" button or from the main manu "RUN"->"RUN".
